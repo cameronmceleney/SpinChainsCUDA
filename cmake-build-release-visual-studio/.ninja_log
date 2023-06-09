@@ -1,0 +1,10 @@
+# ninja log v5
+0	9	0	clean	2478b79e65b1ad63
+3815	4189	7080140483516302	SpinChainsCUDA.exe	1e91dd7bc7b8592b
+13	4394	7080138550733122	CMakeFiles/SpinChainsCUDA.dir/Numerical_Methods_Class.cpp.obj	d59612d5750fa9bb
+1	85	7080142712727716	build.ninja	b12a395552ffdfea
+9	10384	7080138610532469	CMakeFiles/SpinChainsCUDA.dir/SpinChainEigenSolverClass.cpp.obj	5280b81c08f7c187
+23	435	7080138511236364	CMakeFiles/SpinChainsCUDA.dir/linspace.cpp.obj	31a935e886f51b44
+18	3243	7080138539301889	CMakeFiles/SpinChainsCUDA.dir/GlobalVariables.cpp.obj	2bff379da360fdea
+1	3814	7080140480438125	CMakeFiles/SpinChainsCUDA.dir/example_kernel.cu.obj	40d195705ddafb1c
+3996	5636	7080139043098082	CMakeFiles/SpinChainsCUDA.dir/cmake_device_link.obj	5ce38f494227948c

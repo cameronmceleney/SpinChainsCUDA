@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/nmake.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe" -G "CodeBlocks - NMake Makefiles" -S "C:\Users\Cameron McEleney\CLionProjects\SpinChainsCUDA" -B "C:\Users\Cameron McEleney\CLionProjects\SpinChainsCUDA\cmake-build-release-visual-studio"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Cameron McEleney/CLionProjects/SpinChainsCUDA/cmake-build-release-visual-studio
